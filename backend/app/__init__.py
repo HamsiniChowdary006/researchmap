@@ -1,0 +1,1 @@
+"""ResearchMap backend package."""
