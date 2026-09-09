@@ -1,0 +1,1 @@
+"""Standalone ResearchMap pipeline stages."""
